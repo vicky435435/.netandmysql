@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|d:\\dotnet\\practice\\core\\emp_db_project\\emp_db_project\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|solutionrelative:emp_db_project\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|d:\\dotnet\\practice\\core\\emp_db_project\\emp_db_project\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|solutionrelative:emp_db_project\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|d:\\dotnet\\practice\\core\\emp_db_project\\emp_db_project\\models\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|solutionrelative:emp_db_project\\models\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|d:\\dotnet\\practice\\core\\emp_db_project\\emp_db_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|solutionrelative:emp_db_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|d:\\dotnet\\practice\\core\\emp_db_project\\emp_db_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|solutionrelative:emp_db_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|d:\\dotnet\\practice\\core\\emp_db_project\\emp_db_project\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|solutionrelative:emp_db_project\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|d:\\dotnet\\practice\\core\\emp_db_project\\emp_db_project\\emp_db_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6881130-B2F6-4A00-BA34-2D97BC554855}|EMP_DB_Project\\EMP_DB_Project.csproj|solutionrelative:emp_db_project\\emp_db_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "EMP_DB_Project\\appsettings.json",
+              "ToolTip": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\appsettings.json",
+              "RelativeToolTip": "EMP_DB_Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T15:32:02.977Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EMP_DB_Project\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EMP_DB_Project\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:37:51.231Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EMP_DB_Project\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EMP_DB_Project\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T18:07:44.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EMP_DB_Project\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "EMP_DB_Project\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:49:15.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\Program.cs",
+              "RelativeDocumentMoniker": "EMP_DB_Project\\Program.cs",
+              "ToolTip": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\Program.cs",
+              "RelativeToolTip": "EMP_DB_Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:46:32.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\Models\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "EMP_DB_Project\\Models\\EmployeeDetails.cs",
+              "ToolTip": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\Models\\EmployeeDetails.cs",
+              "RelativeToolTip": "EMP_DB_Project\\Models\\EmployeeDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:34:29.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EMP_DB_Project.csproj",
+              "DocumentMoniker": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\EMP_DB_Project.csproj",
+              "RelativeDocumentMoniker": "EMP_DB_Project\\EMP_DB_Project.csproj",
+              "ToolTip": "D:\\dotnet\\PRACTICE\\Core\\EMP_DB_Project\\EMP_DB_Project\\EMP_DB_Project.csproj",
+              "RelativeToolTip": "EMP_DB_Project\\EMP_DB_Project.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T15:23:41.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
